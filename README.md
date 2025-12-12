@@ -6,4 +6,4 @@ Google Drive Link:
     3. Digital health innovation and artificial intelligence in cardiovascular care: a case-based review
     4. Artificial Intelligence in Imaging for Personalized Management of Coronary Artery Disease
     5. Coronary CT angiography evaluation with artificial intelligence for individualized medical  treatment of atherosclerosis: a Consensus  Statement from the QCI Study Group
-    
+    6. Application of Deep Learning for Heart Attack Prediction 
