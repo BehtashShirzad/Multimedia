@@ -117,7 +117,7 @@ export default function App() {
     <div className="min-h-screen bg-gradient-to-br from-slate-900 to-red-900 flex items-center justify-center p-4">
       <div className="bg-white rounded-2xl shadow-2xl p-8 w-full max-w-4xl">
         <h1 className="text-3xl font-bold text-center mb-6">
-          ❤️ پیش‌بینی ریسک حمله قلبی
+         پیش بینی ریسک حمله قلبی توسعه داده شده توسط محمدعلی شیرزاده  
         </h1>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
