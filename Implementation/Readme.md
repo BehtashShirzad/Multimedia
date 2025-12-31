@@ -1,6 +1,8 @@
 ![Service Example](Service%20Example.png)
 
 # ❤️ سامانه پیش‌بینی ریسک حمله قلبی با یادگیری عمیق
+Article:https://github.com/BehtashShirzad/Multimedia/blob/master/Articles/6.pdf
+Translate:https://github.com/BehtashShirzad/Multimedia/blob/master/Translate/Translate_6.pdf
 
 این پروژه یک سامانه‌  برای **پیش‌بینی ریسک بیماری / حمله قلبی** است که با استفاده از **یادگیری عمیق (Deep Learning)** و داده‌های پزشکی پیاده‌سازی شده است.
 
