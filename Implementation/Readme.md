@@ -26,7 +26,7 @@ React UI->  API Gateway (YARP - .NET)  ->  FastAPI (Python)  ->  Preprocessor + 
 
 ## 📊 داده‌ها (Dataset)
 
-- **منبع:** UCI Heart Disease Dataset (Cleveland)
+-  **منبع:** UCI Heart Disease Dataset (Cleveland) [https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland]
 - **نوع داده:** جدولی (Tabular)
 - **تعداد ویژگی‌ها:** 13
 - **برچسب خروجی:** وجود یا عدم وجود بیماری قلبی
