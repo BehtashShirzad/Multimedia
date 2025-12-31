@@ -26,8 +26,8 @@ React UI->  API Gateway (YARP - .NET)  ->  FastAPI (Python)  ->  Preprocessor + 
 ---
 
 ## 📊 داده‌ها (Dataset)
-Article:https://github.com/BehtashShirzad/Multimedia/blob/master/Articles/6.pdf
-Translate:https://github.com/BehtashShirzad/Multimedia/blob/master/Translate/Translate_6.pdf
+مقاله: https://github.com/BehtashShirzad/Multimedia/blob/master/Articles/6.pdf
+ترجمه:https://github.com/BehtashShirzad/Multimedia/blob/master/Translate/Translate_6.pdf
 -  **منبع:** UCI Heart Disease Dataset (Cleveland) [https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland]
 - **نوع داده:** جدولی (Tabular)
 - **تعداد ویژگی‌ها:** 13
